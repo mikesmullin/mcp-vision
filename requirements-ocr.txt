@@ -1,0 +1,4 @@
+# Install a PaddlePaddle runtime separately: paddlepaddle==3.3.1 (CPU),
+# or paddlepaddle-gpu==3.3.0 from the official cu129 index (NVIDIA).
+paddleocr==3.7.0
+paddlex==3.7.2
